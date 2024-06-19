@@ -1,3 +1,5 @@
+git config --global user.email "igorsanthoss@gmail"
+git config --global user.name "Igor Santhos"
 echo "# AGENCIABOLD" >> README.md
 git init
 git add README.md
